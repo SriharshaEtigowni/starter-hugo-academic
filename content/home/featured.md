@@ -19,7 +19,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Tuan Le, Sriharsha Etigowni, Sizhuang Liang, Mehdi Javanmard, Saman Zonouz, Raheem Beyah"
     category: ""
     publication_type: ""
     tag: ""
