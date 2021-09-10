@@ -61,5 +61,6 @@ email: ""
 highlight_name: true
 ---
 
-Sriharsha Etigowni is a post doctoral research associate at Purdue computer science pursec lab. His research investigates security problems that arise due to the interaction of cyber and physical systems.
-Through program analysis and physics invariants his research seeks to improve security of industrial control systems and drones.
+Sriharsha Etigowni is a post doctoral research associate at Purdue computer science pursec lab. I earned a Ph.D. in Computer Engineering from the Rutgers University in 2020, where I was advised by Saman Zonouz.
+
+My research investigates security problems that arise due to the interaction of cyber and physical systems. Through program analysis and physics invariants his research seeks to improve security of industrial control systems and drones.
