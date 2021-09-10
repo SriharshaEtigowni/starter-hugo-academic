@@ -63,6 +63,3 @@ highlight_name: true
 
 Sriharsha Etigowni is a post doctoral research associate at Purdue computer science pursec lab. His research investigates security problems that arise due to the interaction of cyber and physical systems.
 Through program analysis and physics invariants his research seeks to improve security of industrial control systems and drones.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
