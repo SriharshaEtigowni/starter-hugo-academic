@@ -37,7 +37,7 @@ experience:
   - title: Software Engineer
     company: Robert Bosch
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Bangalore,India and Stuggart,Germany
     date_start: '2011-06-01'
     date_end: '2014-07-31'
