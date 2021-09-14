@@ -14,7 +14,7 @@ organizations:
   url: https://www.purdue.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Cyber-Physical Security, Embedded System Security and Industrial Control System Security.
 
 # Interests to show in About widget
 interests:
