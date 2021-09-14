@@ -24,9 +24,6 @@ publication_short: In *SmartGridComm*
 
 abstract: While cyber-physical systems are widely deployedand known to be difficult to analyze due to their increasing complexity, the number of sophisticated attacks against them have been constantly growing. This necessitates semi-automated in-trusion response and recovery capabilities for timely terminationof ongoing attacks and effective recovery of the infrastructural normal and safe operations. In this paper, we present CPR,a cyber-physical response system to protect power grid criti-cal infrastructures, and discuss major challenges in theoreticalformulation and practical deployment of fully-automated toler-ance capabilities in settings where continuous physical dynamics continuously interact with cyber-side discrete computation logic.Our evaluation results show that CPR leverages its hybrid cyber-physical formulation, and efficiently selects optimal joint response strategies in both physical and cyber networks.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
 tags: []
 
 # Display this page in the Featured widget?
