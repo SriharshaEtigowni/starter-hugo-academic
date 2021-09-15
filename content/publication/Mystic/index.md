@@ -1,5 +1,5 @@
 ---
-title: "Physical Logic Bombs in 3D Printersvia Emerging 4D Techniques"
+title: "Physical Logic Bombs in 3D Printers via Emerging 4D Techniques"
 authors:
 - Tuan Le
 - admin
